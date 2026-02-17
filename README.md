@@ -30,7 +30,12 @@ Go beyond the basics.
 - [Webhooks Explained](05-advanced/02-webhooks.md)
 - [gRPC Basics](05-advanced/03-grpc-basics.md)
 
-### 🔹 Module 5: Hands-on Practice
+### 🔹 Module 5: Building APIs
+Create your own API from scratch.
+- [Node.js & Express](06-build-your-own/01-nodejs-express.md)
+- [Python & FastAPI](06-build-your-own/02-python-fastapi.md)
+
+### 🔹 Module 6: Hands-on Practice
 Real-world scenarios to test your skills.
 - [Consuming a Public API](03-practices/01-consume-public-api/README.md)
 

@@ -22,7 +22,7 @@ Expanding your toolkit beyond the basics.
 - [x] **Webhooks & Event-driven APIs**: Real-time updates.
 - [x] **gRPC**: High-performance communication.
 
-## 🏗️ Phase 4: Building Your Own API (Coming Soon)
+## 🏗️ Phase 4: Building Your Own API (Completed)
 Putting knowledge into practice by creating APIs.
-- [ ] Node.js / Express
-- [ ] Python / FastAPI
+- [x] **Node.js / Express**: Fast and flexible.
+- [x] **Python / FastAPI**: High performance and auto-documentation.
