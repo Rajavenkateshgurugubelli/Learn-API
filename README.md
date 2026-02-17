@@ -24,7 +24,13 @@ Keep your API safe.
 - [OAuth 2.0 Basics](04-security/02-oauth-basics.md)
 - [JWT Explained](04-security/03-jwt-explained.md)
 
-### 🔹 Module 4: Hands-on Practice
+### 🔹 Module 4: Advanced Topics
+Go beyond the basics.
+- [GraphQL vs REST](05-advanced/01-graphql-vs-rest.md)
+- [Webhooks Explained](05-advanced/02-webhooks.md)
+- [gRPC Basics](05-advanced/03-grpc-basics.md)
+
+### 🔹 Module 5: Hands-on Practice
 Real-world scenarios to test your skills.
 - [Consuming a Public API](03-practices/01-consume-public-api/README.md)
 

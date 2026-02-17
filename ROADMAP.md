@@ -16,11 +16,11 @@ How to secure APIs and access protected data.
 - [x] **OAuth 2.0**: secure delegation (Log in with Google).
 - [x] **JWT (JSON Web Tokens)**: Stateless authentication.
 
-## 🛠️ Phase 3: Advanced Topics (Coming Soon)
+## 🛠️ Phase 3: Advanced Topics (Completed)
 Expanding your toolkit beyond the basics.
-- [ ] GraphQL vs REST
-- [ ] Webhooks & Event-driven APIs
-- [ ] gRPC
+- [x] **GraphQL vs REST**: A new way to query data.
+- [x] **Webhooks & Event-driven APIs**: Real-time updates.
+- [x] **gRPC**: High-performance communication.
 
 ## 🏗️ Phase 4: Building Your Own API (Coming Soon)
 Putting knowledge into practice by creating APIs.
