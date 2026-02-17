@@ -10,11 +10,11 @@ Understanding what APIs are and how they work is crucial before writing code.
 - [ ] **REST Architecture**: The most popular API design style.
 - [ ] **Tools of the Trade**: Introduction to Postman.
 
-## 🚀 Phase 2: Authentication & Security (Coming Soon)
+## 🚀 Phase 2: Authentication & Security (Completed)
 How to secure APIs and access protected data.
-- [ ] API Keys
-- [ ] OAuth 2.0 flows
-- [ ] JWT (JSON Web Tokens)
+- [x] **API Keys**: Simple access control.
+- [x] **OAuth 2.0**: secure delegation (Log in with Google).
+- [x] **JWT (JSON Web Tokens)**: Stateless authentication.
 
 ## 🛠️ Phase 3: Advanced Topics (Coming Soon)
 Expanding your toolkit beyond the basics.

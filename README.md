@@ -18,7 +18,13 @@ Start here to build your theoretical foundation.
 Learn the tools professionals use.
 - [Postman Basics](02-tools/01-postman-basics.md)
 
-### 🔹 Module 3: Hands-on Practice
+### 🔹 Module 3: Authentication & Security
+Keep your API safe.
+- [API Keys](04-security/01-api-keys.md)
+- [OAuth 2.0 Basics](04-security/02-oauth-basics.md)
+- [JWT Explained](04-security/03-jwt-explained.md)
+
+### 🔹 Module 4: Hands-on Practice
 Real-world scenarios to test your skills.
 - [Consuming a Public API](03-practices/01-consume-public-api/README.md)
 
