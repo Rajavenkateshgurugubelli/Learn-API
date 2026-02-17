@@ -9,10 +9,28 @@ Think of it as a **waiter in a restaurant**.
 2.  **The Kitchen (The Server)**: This is where the food (data) is prepared.
 3.  **The Waiter (The API)**: You tell the waiter what you want (your order). The waiter takes your request to the kitchen, the kitchen prepares it, and the waiter brings the food back to you.
 
-In software:
--   **You** are the app or website (Client).
--   **The Kitchen** is the database or server.
--   **The Waiter** is the API that connects the two.
+### The Code Equivalent 💻
+In code, an API is just a function that you call to get data from somewhere else.
+
+#### JavaScript
+```javascript
+// You are the client calling the waiter (API)
+async function orderFood() {
+    const response = await fetch('https://api.restaurant.com/burger');
+    const food = await response.json();
+    console.log("Here is your:", food);
+}
+```
+
+#### Python
+```python
+import requests
+
+# You are the client calling the waiter (API)
+response = requests.get('https://api.restaurant.com/burger')
+food = response.json()
+print("Here is your:", food)
+```
 
 ### Visualizing the Flow 📊
 

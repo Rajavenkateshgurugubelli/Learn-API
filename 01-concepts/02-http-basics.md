@@ -12,6 +12,51 @@ When you send a request, it usually contains:
 3.  **Headers**: Meta-information (e.g., "I want the response in JSON format").
 4.  **Body**: The data you are sending (used in POST/PUT).
 
+### Code Example: GET Request
+Use this to **read** data.
+
+#### JavaScript
+```javascript
+fetch('https://api.example.com/users')
+  .then(response => response.json())
+  .then(data => console.log(data));
+```
+
+#### Python
+```python
+import requests
+response = requests.get('https://api.example.com/users')
+print(response.json())
+```
+
+### Code Example: POST Request
+Use this to **create** data. Note the `body` (data) and `headers`.
+
+#### JavaScript
+```javascript
+fetch('https://api.example.com/users', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Authorization': 'Bearer my-secret-token'
+  },
+  body: JSON.stringify({
+    name: 'Raja',
+    job: 'Developer'
+  })
+});
+```
+
+#### Python
+```python
+import requests
+
+payload = {'name': 'Raja', 'job': 'Developer'}
+headers = {'Authorization': 'Bearer my-secret-token'}
+
+response = requests.post('https://api.example.com/users', json=payload, headers=headers)
+```
+
 ## The Response 📦
 The server replies with:
 1.  **Status Code**: Did it work?
@@ -23,11 +68,7 @@ The server replies with:
     -   `500 Internal Server Error`: The server acted up. 🔥
 2.  **Body**: The actual data requested (usually JSON).
 
-## Example
-**Request:**
-`GET https://api.github.com/users/octocat`
-
-**Response (Simplified):**
+## Example Response
 ```json
 {
   "login": "octocat",
