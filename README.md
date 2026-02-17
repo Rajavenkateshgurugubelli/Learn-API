@@ -13,6 +13,7 @@ Start here to build your theoretical foundation.
 - [Introduction to APIs](01-concepts/01-intro-to-apis.md)
 - [HTTP Basics](01-concepts/02-http-basics.md)
 - [REST Architecture](01-concepts/03-rest-architecture.md)
+- [JSON Data Explained](01-concepts/04-json-data.md)
 
 ### 🔹 Module 2: Tools
 Learn the tools professionals use.

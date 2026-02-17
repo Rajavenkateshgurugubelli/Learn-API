@@ -14,6 +14,21 @@ In software:
 -   **The Kitchen** is the database or server.
 -   **The Waiter** is the API that connects the two.
 
+### Visualizing the Flow 📊
+
+```mermaid
+sequenceDiagram
+    participant Client (You)
+    participant API (Waiter)
+    participant Server (Kitchen)
+
+    Client->>API: Request: "I want a burger" (GET /food)
+    API->>Server: Relays request
+    Note over Server: Cooks the food...
+    Server->>API: Returns burger (Data)
+    API->>Client: Response: Here is your burger
+```
+
 ## Why do we need them?
 -   **Integration**: Allows different software to talk to each other (e.g., Uber using Google Maps).
 -   **Security**: Hides the complex logic (the kitchen) from the user; you only see the menu.
