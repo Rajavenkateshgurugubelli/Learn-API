@@ -35,12 +35,6 @@ Create your own API from scratch.
 - [Node.js & Express](06-build-your-own/01-nodejs-express.md)
 - [Python & FastAPI](06-build-your-own/02-python-fastapi.md)
 
-- [Python & FastAPI](06-build-your-own/02-python-fastapi.md)
-
-### 🔹 Module 6: Testing & Deployment
-Get ready for production.
-- [API Testing Strategies](07-testing-deployment/01-api-testing.md)
-- [Deployment Basics](07-testing-deployment/02-deployment-basics.md)
 
 - [Deployment Basics](07-testing-deployment/02-deployment-basics.md)
 
@@ -50,10 +44,19 @@ Master the tools of the trade.
 - [API Design Patterns](08-professional/02-design-patterns.md)
 - [Browser Network Tab](02-tools/02-browser-network-tab.md)
 
-### 🔹 Module 8: Hands-on Practice
+### 🔹 Module 8: Mastery & Best Practices
+Expert-level concepts.
+- [API Versioning](09-mastery/01-versioning.md)
+- [Caching & Performance](09-mastery/02-caching-performance.md)
+- [API Security Risks (OWASP)](09-mastery/03-api-security-risks.md)
+
+### 🔹 Module 9: Hands-on Practice
 Real-world scenarios to test your skills.
 - [Consuming a Public API (Postman)](03-practices/01-consume-public-api/README.md)
 - [Consuming a Public API (Code)](03-practices/02-consume-with-code.md)
+
+## 📖 Reference
+- [**API Glossary**](GLOSSARY.md)
 
 ## 🤝 Contributing
 Feel free to open issues or pull requests to improve the content!
