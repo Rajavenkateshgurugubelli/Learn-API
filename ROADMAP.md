@@ -26,3 +26,8 @@ Expanding your toolkit beyond the basics.
 Putting knowledge into practice by creating APIs.
 - [x] **Node.js / Express**: Fast and flexible.
 - [x] **Python / FastAPI**: High performance and auto-documentation.
+
+## 🚢 Phase 5: Testing & Deployment (Completed)
+Ensuring your API is ready for the real world.
+- [x] **API Testing**: Strategies for reliable code.
+- [x] **Deployment**: Putting your API on the cloud.

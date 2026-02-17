@@ -35,7 +35,14 @@ Create your own API from scratch.
 - [Node.js & Express](06-build-your-own/01-nodejs-express.md)
 - [Python & FastAPI](06-build-your-own/02-python-fastapi.md)
 
-### 🔹 Module 6: Hands-on Practice
+- [Python & FastAPI](06-build-your-own/02-python-fastapi.md)
+
+### 🔹 Module 6: Testing & Deployment
+Get ready for production.
+- [API Testing Strategies](07-testing-deployment/01-api-testing.md)
+- [Deployment Basics](07-testing-deployment/02-deployment-basics.md)
+
+### 🔹 Module 7: Hands-on Practice
 Real-world scenarios to test your skills.
 - [Consuming a Public API](03-practices/01-consume-public-api/README.md)
 
