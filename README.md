@@ -42,9 +42,18 @@ Get ready for production.
 - [API Testing Strategies](07-testing-deployment/01-api-testing.md)
 - [Deployment Basics](07-testing-deployment/02-deployment-basics.md)
 
-### 🔹 Module 7: Hands-on Practice
+- [Deployment Basics](07-testing-deployment/02-deployment-basics.md)
+
+### 🔹 Module 7: Professional Skills
+Master the tools of the trade.
+- [OpenAPI & Swagger Specs](08-professional/01-openapi-swagger.md)
+- [API Design Patterns](08-professional/02-design-patterns.md)
+- [Browser Network Tab](02-tools/02-browser-network-tab.md)
+
+### 🔹 Module 8: Hands-on Practice
 Real-world scenarios to test your skills.
-- [Consuming a Public API](03-practices/01-consume-public-api/README.md)
+- [Consuming a Public API (Postman)](03-practices/01-consume-public-api/README.md)
+- [Consuming a Public API (Code)](03-practices/02-consume-with-code.md)
 
 ## 🤝 Contributing
 Feel free to open issues or pull requests to improve the content!

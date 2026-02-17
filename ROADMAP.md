@@ -31,3 +31,10 @@ Putting knowledge into practice by creating APIs.
 Ensuring your API is ready for the real world.
 - [x] **API Testing**: Strategies for reliable code.
 - [x] **Deployment**: Putting your API on the cloud.
+
+## 🎓 Phase 6: Professional Skills (Completed)
+Level up your developer game.
+- [x] **Consume with Code**: Fetching data in JS & Python.
+- [x] **Browser Debugging**: Using the Network Tab.
+- [x] **OpenAPI**: Designing APIs with specs.
+- [x] **Design Patterns**: Pagination, Filtering, and Standards.
